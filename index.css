@@ -1,0 +1,14 @@
+.toplink{
+    color: #9ba3b4;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+.downlink{
+    color: #4daafc;
+    padding-left: 1px;
+    padding-right: 1px;
+    font-weight: 500;
+    font-size: 14px;
+}
