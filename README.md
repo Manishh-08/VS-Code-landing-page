@@ -1,2 +1,2 @@
 # VS-Code-landing-page
-taught by harkirat's cohort and googled some what things
+taught in harkirat's cohort and googled some what things i don't know
